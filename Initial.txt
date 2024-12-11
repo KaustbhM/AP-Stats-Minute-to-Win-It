@@ -1,0 +1,3 @@
+This is the minute to win it project code for AP Statistics. We generated scatter plots, box plots, etc...
+
+We used the seaborn data visualization library, and python to generate these plots. 
